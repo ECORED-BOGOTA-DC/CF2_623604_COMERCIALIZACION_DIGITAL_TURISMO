@@ -22,9 +22,6 @@
     .imagen_flotante_3: img(src="@/assets/curso/banner/3.png")
     .imagen_flotante_5.d-none.d-xl-block: img(src="@/assets/curso/banner/5.png")
     .imagen_flotante_6.d-none.d-xl-block: img(src="@/assets/curso/banner/2.png")
-    //.imagen_flotante_7: img(src="@/assets/curso/banner/img01.svg")
-    //.imagen_flotante_8: img(src="@/assets/curso/banner/img01.svg")
-  
 
 </template>
 
@@ -117,73 +114,55 @@ export default {
 
 .imagen_flotante
   &_1
-    animation: float1 3s ease-in-out infinite alternate
+    animation: float2 3s ease-in-out infinite alternate
     position: absolute
-    width: 97px
-    bottom: 120px
+    width: 8%
+    bottom: 20%
     left: 55%
   &_2
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    width: 154px
-    top: 250px
+    width: 10%
+    top: 50%
     left: -4%
   &_3
     animation: float1 3.8s ease-in-out infinite alternate
     position: absolute
-    width: 80px
-    top: 50px
+    width: 6%
+    top: 10%
     left: 55%
-  &_4
-    animation: float1 4s ease-in-out infinite alternate
-    position: absolute
-    width: 90px
-    bottom: -5%
-    left: 30%
-    z-index: 99
   &_5
     animation: float1 3.9s ease-in-out infinite alternate
     position: absolute
-    width: 61px
+    width: 5%
     top: 5%
     left: 2%
     z-index: 99
   &_6
-    animation: float1 2.7s ease-in-out infinite alternate
+    animation: float2 4.7s ease-in-out infinite alternate
     position: absolute
-    width: 250px
-    top: 270px
-    right: 130px
-    z-index: 99
-  &_7
-    animation: float1 2.5s ease-in-out infinite alternate
-    position: absolute
-    width: 50px
-    bottom: 10%
-    right: 3%
-    z-index: 99
-  &_8
-    filter: blur(1px)
-
-    animation: float1 3s ease-in-out infinite alternate
-    position: absolute
-    width: 50px
-    bottom: 20%
-    right: 8%
+    width: 18%
+    top: 50%
+    right: 10%
     z-index: 99
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(30px)
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+
 @keyframes scale
   0%
     transform: scale(1)
-
   100%
-    transform: scale(1)
+    transform: scale(1.05)
 
 
 @media (max-width: $bp-max-md)

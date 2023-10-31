@@ -389,6 +389,12 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
+        nombre: 'Diego Fernando Velasco Güiza',
+        cargo: 'Desarrollador Fullstack',
+        centro:
+          'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+      },
+      {
         nombre: 'Zuleidy María Ruíz Torres',
         cargo: 'Producción audiovisual',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
@@ -472,7 +478,7 @@ export default {
   //   {
   //     titulo: 'En alianza',
   //     contenido: [
-  //       require('@/assets/template/logo-sena-naranja.svg'),
+  //       require('@/assets/template/logo-sena.svg'),
   //       require('@/assets/template/mintic.jpg'),
   //       require('@/assets/template/minsalud.jpg'),
   //     ],

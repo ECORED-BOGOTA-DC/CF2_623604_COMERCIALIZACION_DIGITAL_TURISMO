@@ -1,20 +1,3 @@
-//  
-//  .banner-principal-decorativo
-//    &-1
-//      animation: float1 3.5s ease-in-out infinite alternate
-//      position: absolute
-  //    top: 40%
-    //  right: 50%
-   // &-2
-     // animation: float1 2.8s ease-in-out infinite alternate
-      //position: absolute
-      //top: 51%
-      //right: 30%
-  //@keyframes float1
-    //0%
-      //transform: translateY(20px)
-    //100%
-      //transform: translateY(0px)
 .banner-principal p
   color: #12263F
 .banner-principal h1
@@ -161,10 +144,9 @@
   background-image: url("../assets/curso/tema2/bg2.png") !important
   background-repeat: no-repeat 
   background-size: contain
-  margin-inline: -3.4rem
-  padding: 50px
-  @media screen and ( max-width: 992px)
-    background-size: cover
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 .tabs-c.color-primario .tabs-c__tab--active
   font-weight: bold
 .colorc
@@ -177,10 +159,9 @@
   background-image: url("../assets/curso/tema2/bg2.png") !important
   background-repeat: no-repeat 
   background-size: contain
-  margin-inline: -3.4rem
-  padding: 50px
-  @media screen and ( max-width: 992px)
-    background-size: cover
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 .tabla-a.color-primario.mb-5 th
   font-size: 18px
 .fonta
@@ -247,7 +228,11 @@
     width: 100%
     height: 100%
     left: 0
-    bottom: -80%
+    bottom: -85%
+    @media (max-width: $bp-max-xl)
+      bottom: -80%
+    @media (max-width: $bp-max-md)
+      bottom: -85%
     i:last-child
       display: none
   &:hover
@@ -287,3 +272,20 @@
 	margin: 0 4px
   width: 14px
   height: 14px
+
+.tabla-b td, .tabla-c td, .tabla-b th, .tabla-c th
+  padding: 10px 20px
+
+.lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
+  display: flex
+
+.banner-interno__titulo__icono i
+  color: $white !important
+
+.banner-interno__titulo h2
+  color: $color-sistema-texto !important
+
+.banner-interno__titulo__icono
+  background-color: $color-sistema-texto !important
+
+
