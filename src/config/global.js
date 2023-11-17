@@ -321,8 +321,8 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'María Camila García Santamaría',
-          cargo: 'Líder del equipo',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección general',
         },
         {
@@ -374,13 +374,14 @@ export default {
           centro: 'Centro de Diseño y Metrología. Regional Distrito Capital',
         },
         {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-        },
-        {
           nombre: 'Gloria Amparo López Escudero',
           cargo: 'Adecuación instruccional-2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesoría metodológica y pedagógica',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -401,16 +402,10 @@ export default {
           centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
         {
-          nombre: ['Fabian Zarate'],
+          nombre: 'Fabian Zarate',
           cargo: 'Diseño web',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
-        },
-        {
-          nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseño web-2023',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Sergio Mauricio Valencia Martínez',
@@ -423,12 +418,6 @@ export default {
           cargo: 'Soporte front-end',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
-        },
-        {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollo Fullstack-2023',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Zuleidy María Ruíz Torres',
@@ -500,6 +489,18 @@ export default {
           cargo: 'Validación de diseño y contenido',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        },
+        {
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseño web-2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Diego Fernando Velasco Güiza',
+          cargo: 'Desarrollo Fullstack-2023',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
