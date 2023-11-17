@@ -7,7 +7,7 @@
         span 1
       h1 La gastronomía en la industria del turismo
    
-    p.mb-5(data-aos="fade-right") En los últimos años los destinos turísticos han encontrado en la gastronomía una oportunidad para destacar y brindar un mayor valor a la experiencia turística. Este tema se ha vuelto una poderosa motivación para viajar, ya que el comer no solo se percibe como una necesidad, sino como una experiencia estimulante que produce memorias placenteras y duraderas.
+    p.mb-5(data-aos="fade-right") En los últimos años, los destinos turísticos han encontrado en la gastronomía una oportunidad para destacar y brindar un mayor valor a la experiencia turística. Este tema se ha vuelto una poderosa motivación para viajar, ya que el comer no solo se percibe como una necesidad, sino como una experiencia estimulante que produce memorias placenteras y duraderas.
     
     .row.justify-content-center
       .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
@@ -49,7 +49,7 @@
         .row.justify-content-center.color2.p-4
           .col-lg-11
             p.mb-0 Un alimento es cualquier sustancia de naturaleza compleja que es consumida por los seres vivos para mantener las funciones vitales del cuerpo y reponer lo que se pierde en la actividad física del día a día; sus sustancias son las encargadas de ayudar al ser humano en la formación de algunos tejidos y permitir la locomoción y calor en el cuerpo; adicional a ello, contienen nutrientes y no-nutrientes, como la fibra vegetal que favorece el funcionamiento de la digestión.
-        p.mt-2 Casi todos los alimentos son de origen animal o vegetal, aunque existen algunos que no provienen de estas fuentes como los hongos comestibles, incluidos los champiñones y las bacterias que son usadas en la preparación de alimentos encurtidos y fermentados como pan con levadura, vino, cerveza, queso, pepinillos y yogur. Por otro lado, no se consideran alimentos las sustancias que no se ingieren o que, una vez ingeridas, alteran las funciones metabólicas del organismo como la goma de mascar, el tabaco, los medicamentos y demás drogas.
+        p.mt-4 Casi todos los alimentos son de origen animal o vegetal, aunque existen algunos que no provienen de estas fuentes, como los hongos comestibles, incluidos los champiñones y las bacterias, que son usadas en la preparación de alimentos encurtidos y fermentados, como pan con levadura, vino, cerveza, queso, pepinillos y yogur. Por otro lado, no se consideran alimentos las sustancias que no se ingieren o que, una vez ingeridas, alteran las funciones metabólicas del organismo como la goma de mascar, el tabaco, los medicamentos y demás drogas.
     
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -106,7 +106,7 @@
             figure
               img(src='@/assets/curso/tema1/6.svg', alt="Imagen decorativa")
 
-          div(x="22.5%" y="17%" tooltip="1. Grupo de los cereales, pan, patatas, azúcares")
+          div(x="22.5%" y="17%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
                 h5 1. Grupo de los cereales, pan, patatas, azúcares
@@ -115,14 +115,14 @@
                 p <strong>Ejemplo de tubérculos:</strong> calabaza, berro, lechuga, acelga, apio, puerro, berenjena, remolacha, brócoli, cebolla, zanahoria, chucrut, calabacín, col, col de Saboya, col de Bruselas, espárragos, espinacas, judías verdes, nabo, nabo, pepino, pimiento, rábano, col, rúcula, tomate.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/7.png', alt="Imagen decorativa")
-          div(x="58%" y="3%" tooltip="2. Grupo de los aceites y las grasas")
+          div(x="58%" y="3%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
                 h5 2. Grupo de los aceites y las grasas
                 p <strong>Ejemplo de estos alimentos son:</strong> aceite de oliva, otros aceites vegetales (cacahuete, soja, girasol, maíz, palma) margarina, cremas vegetales para untar, mantequilla, manteca, crem.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/8.png', alt="Imagen decorativa")
-          div(x="76.6%" y="24.5%" tooltip="3. Grupo de las carnes, pescados, huevos, legumbres y frutos secos")
+          div(x="76.6%" y="24.5%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
                 h5 3. Grupo de las carnes, pescados, huevos, legumbres y frutos secos
@@ -130,7 +130,7 @@
                 p Los alimentos de este grupo aportan proteínas y son ricos en ciertos minerales como hierro, fósforo, magnesio, zinc... y vitaminas del complejo B. Los pescados son excelentes fuentes de yodo y flúor.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/9.png', alt="Imagen decorativa")
-          div(x="83%" y="50%" tooltip="4. Grupo de los lácteos")
+          div(x="83%" y="50%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
                 h5 4. Grupo de los lácteos
@@ -138,19 +138,19 @@
                 p <strong>Ejemplos de estos alimentos son:</strong> leche, yogur líquido, yogur sólido, queso fresco, queso maduro, requesón, bebidas de soja enriquecidas con calcio, leche de soja, entre otros.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/10.png', alt="Imagen decorativa")
-          div(x="72%" y="89%" tooltip="5. Grupo de las legumbres")
+          div(x="72%" y="89%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
                 h5 5. Grupo de las legumbres
                 p <strong>Ejemplos de estos alimentos:</strong>  guisantes, habas, frijoles, caupí, garbanzos, lentejas, soja.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/11.png', alt="Imagen decorativa")
-          div(x="28%" y="90%" tooltip="6. Grupo de las frutas")
+          div(x="28%" y="90%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
                 h5 6. Grupo de las frutas
                 p Está constituido por un grupo de alimentos cuyo valor nutritivo se atribuye al aporte de vitaminas hidrosolubles (B y C), carotenoides (precursores de la vitamina A) y minerales, tales como el hierro, calcio, magnesio, etc.
-                p <strong>Ejemplos de alimentos:</strong> piña, piña, albaricoque, ciruela, mora, piña, plátano, cereza, clementina, caqui, higo, frambuesa, guayaba, grosella, kiwi, naranja, limón, lima, manzana, mango, sandía, melón, arándano, maracuyá, fresa, nectarina, espárragos, papaya, pera, melocotón, granada, mandarina, pomelo.
+                p <strong>Ejemplos de alimentos:</strong> piña, albaricoque, ciruela, mora, plátano, cereza, clementina, caqui, higo, frambuesa, guayaba, grosella, kiwi, naranja, limón, lima, manzana, mango, sandía, melón, arándano, maracuyá, fresa, nectarina, espárragos, papaya, pera, melocotón, granada, mandarina, pomelo.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/12.png', alt="Imagen decorativa")
 
@@ -158,7 +158,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2	Propiedades organolépticas de los alimentos
     
-    p(data-aos="fade-right") Los alimentos son una fuente imperiosa de estímulos relacionados directamente con la calidad. Es por eso que los expertos analizan esta calidad a partir de los sentidos. Cuando disfrutamos de una buena comida los cinco sentidos están activos; no solo el gusto está involucrado en la acción de comer, sino también todos los otros sentidos y por ello se habla de propiedades organolépticas, que son las características físicas que son percibidas por los distintos sentidos, como el sabor, el olor, la textura y el color.
+    p(data-aos="fade-right") Los alimentos son una fuente imperiosa de estímulos relacionados directamente con la calidad. Es por eso que los expertos analizan esta calidad a partir de los sentidos. Cuando disfrutamos de una buena comida, los cinco sentidos están activos; no solo el gusto está involucrado en la acción de comer, sino también todos los otros sentidos y por ello se habla de propiedades organolépticas, que son las características físicas que son percibidas por los distintos sentidos, como el sabor, el olor, la textura y el color.
     p(data-aos="fade-right") Los expertos en restaurantes o los especialistas en nutrición los utilizan para comprobar la calidad de los alimentos o para conocer los gustos de los consumidores o para innovar en las recetas. Su función es la siguiente:
     
     .row.justify-content-center.mb-5
@@ -279,9 +279,9 @@
           p.text-small(numero="4" titulo="Proveedores de alimentos poco fiables") Para cada restaurante debe ser un hábito revisar y controlar la entrega de productos por parte de proveedores. Se debe tener en cuenta la temperatura, el etiquetado, los envases y embalajes, los medios en los que se transportan los productos, etc.; adicional a ello, se deben pedir los correspondientes certificados de calidad a quienes proveen los alimentos al establecimiento. 
           p.text-small(numero="5" titulo="Mala gestión de residuos") Eso incluye mantener residuos en áreas de trabajo o botes sin la debida separación de los alimentos.
           p.text-small(numero="6" titulo="Malas prácticas de almacenamiento de productos") Garantizar la salubridad de los mismos. Para ello, es esencial seguir unas estrictas pautas de almacenamiento y evitar malas prácticas como, por ejemplo, colocar los productos en el suelo aunque estén protegidos por cajas.
-          p.text-small(numero="7" titulo="Mala higiene personal de los manipuladores de alimentos") Se debe procurar que todos los empleados del restaurante tengan claro los habitos básicos en cuanto a su aseo personal, indumentaria e higiene en general.
+          p.text-small(numero="7" titulo="Mala higiene personal de los manipuladores de alimentos") Se debe procurar que todos los empleados del restaurante tengan claro los hábitos básicos en cuanto a su aseo personal, indumentaria e higiene en general.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/233.png',  alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/233.png',  alt="imagen de una persona, que indica los aspectos a tener en cuenta para trabajar en el área de preparación de alimentos, estos son:<br>1. Recoger el cabello<br>2. Evitar la barba<br>3. No usar joyas<br>4. Uñas limpias<br>5. Lavarse las manos<br>6. Evitar tocarse<br>7. Suspender labores en caso de enfermedad.<br>8. Baño diario en los pies<br>9. Calzado anti-deslizante<br>10. Ropa y calzados limpios<br>11. Control médico<br>12. Lavado de manos<br>13. No toser ni estornudar<br>14. No fumar, ni comer<br>15. No usar maquillaje")
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -297,9 +297,9 @@
     
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-        p Otra diferencia es que de una carta se pueden elegir varias combinaciones de platos; pero cuando se habla de menú, se está haciendo referencia a una propuesta de comida diseñada por el chef cuya composición puede variar dependiendo de su gusto, de la ocasión o del tipo de restaurante. 
+        p Otra diferencia es que de una carta se pueden elegir varias combinaciones de platos; pero cuando se habla de menú, se está haciendo referencia a una propuesta de comida diseñada por el chef, cuya composición puede variar dependiendo de su gusto, de la ocasión o del tipo de restaurante. 
         .color3.p-4
-          p Adicional a lo anterior, el precio también es un diferencial ya que el del menú es un valor cerrado, mientras que la elección de varias combinaciones desde la carta, tiene un valor variable. 
+          p Adicional a lo anterior, el precio también es un diferencial, ya que el del menú es un valor cerrado, mientras que la elección de varias combinaciones desde la carta, tiene un valor variable. 
           p.mb-0 A estos dos términos se le puede agregar el tercero y es la comanda; que es la elección de platos que se ha hecho después de consultar la carta y que es llevada hasta la cocina, directamente por el mesero quien atendió la mesa.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/24.png',  alt="Imagen decorativa")
@@ -316,92 +316,97 @@
       <br><br><br><br><br><br><br>
       SlyderA(tipo="b")
         .row.justify-content-center.p-4
-          .col-lg-6.order-lg-1.order-2
+          .col-lg-6.col-11
             h5.mb-5 Menú a la carta
+            p Un menú a la carta es el tipo de menú que enumera los precios de cada artículo por separado.
             ul.lista-ul
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Los precios tienden a ser más altos.
+                p.mb-0 Los precios tienden a ser más altos.
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Ofrecen mucha más flexibilidad ya que los comensales pueden elegir productos individuales y combinarlos como quieran.
+                p.mb-0 Ofrecen mucha más flexibilidad ya que los comensales pueden elegir productos individuales y combinarlos como quieran.
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Brindan una mejor experiencia gastronómica a los clientes.
+                p.mb-0 Brindan una mejor experiencia gastronómica a los clientes.
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Contienen la sección de la comida: ensaladas, pastas, carnes, pescados, etc.; y de las bebidas como refrescos, cervezas, vinos y licores
+                p.mb-0 Contienen la sección de la comida: ensaladas, pastas, carnes, pescados, etc.; y de las bebidas como refrescos, cervezas, vinos y licores
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Los menús a la carta son especialmente fáciles de leer.
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                p.mb-0 Los menús a la carta son especialmente fáciles de leer.
+          .col-6.d-lg-flex.d-none
         .row.justify-content-center.p-4
-          .col-lg-6.order-lg-1.order-2
+          .col-lg-6.col-11
             h5.mb-5 Menú del día o menú ejecutivo
             ul.lista-ul
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Cambian a diario, según los productos que estén disponibles o lo que haya preparado el cocinero.
+                p.mb-0 Cambian a diario, según los productos que estén disponibles o lo que haya preparado el cocinero.
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Este menú por lo general, incluye en el precio una entrada, un plato principal, un postre, y una bebida.
+                p.mb-0 Este menú por lo general, incluye en el precio una entrada, un plato principal, un postre, y una bebida.
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Los menús del día pueden parecer rígidos, pero son una opción excelente para que los cocineros tengan mayor flexibilidad a la hora de elegir los alimentos que desean servir en un restaurante.
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                p.mb-0 Los menús del día pueden parecer rígidos, pero son una opción excelente para que los cocineros tengan mayor flexibilidad a la hora de elegir los alimentos que desean servir en un restaurante.
+          .col-6.d-lg-flex.d-none
         .row.justify-content-center.p-4
-          .col-lg-6.order-lg-1.order-2
+          .col-lg-6.col-11
             h5.mb-5 Menú cíclico
             ul.lista-ul
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Son menús preparados para abarcar determinado periodo de tiempo: una semana, un mes, 3 meses, etc.
+                p.mb-0 Son menús preparados para abarcar determinado periodo de tiempo: una semana, un mes, 3 meses, etc.
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Por ejemplo, podría haber un menú del día diferente durante dos semanas, y luego el ciclo del menú comenzaría nuevamente desde el principio.
+                p.mb-0 Por ejemplo, podría haber un menú del día diferente durante dos semanas, y luego el ciclo del menú comenzaría nuevamente desde el principio.
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Al final de cada período pueden ser usados de nuevo los menús, evitando así la necesidad de crear unos nuevos.
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                p.mb-0 Al final de cada período pueden ser usados de nuevo los menús, evitando así la necesidad de crear unos nuevos.
+          .col-6.d-lg-flex.d-none
         .row.justify-content-center.p-4
-          .col-lg-6.order-lg-1.order-2
+          .col-lg-6.col-11
             h5.mb-5 Menú degustación
             ul.lista-ul
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Está compuesto por una gran cantidad de platos elegidos por el restaurante y generalmente considerados especialidades de la casa.
+                p.mb-0 Está compuesto por una gran cantidad de platos elegidos por el restaurante y generalmente considerados especialidades de la casa.
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Se utiliza para dar a los comensales la oportunidad de que puedan probar una gran variedad de platos elegidos por el chef.
+                p.mb-0 Se utiliza para dar a los comensales la oportunidad de que puedan probar una gran variedad de platos elegidos por el chef.
               li 
                 i.fas.fa-angle-right.ss
-                p.text-small.mb-0 Algunos de ellos suelen llevar algunas técnicas de gastronomía molecular, como la esferificación, espuma, deconstrucción, etc.
-          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+                p.mb-0 Algunos de ellos suelen llevar algunas técnicas de gastronomía molecular, como la esferificación, espuma, deconstrucción, etc.
+          .col-6.d-lg-flex.d-none
         .row.justify-content-center.p-4
-          h5.mb-5 Menú por tiempos
-          ul.lista-ul
-            li 
-              i.fas.fa-angle-right.ss
-              p.text-small.mb-0 Es un menú que el cliente ha contratado con antelación y es concertado con el chef del restaurante, tanto en el precio como en la composición de los platos que lo integran.
-            li 
-              i.fas.fa-angle-right.ss
-              p.text-small.mb-0 Este tipo de menú es el más usado para grandes grupos en <i>catering</i> y eventos.
+          .col-lg-6.col-11
+            h5.mb-5 Menú concertado
+            ul.lista-ul
+              li 
+                i.fas.fa-angle-right.ss
+                p.mb-0 Es un menú que el cliente ha contratado con antelación y es concertado con el chef del restaurante, tanto en el precio como en la composición de los platos que lo integran.
+              li 
+                i.fas.fa-angle-right.ss
+                p.mb-0 Este tipo de menú es el más usado para grandes grupos en <i>catering</i> y eventos.
+          .col-6.d-lg-flex.d-none
         .row.justify-content-center.p-4
-          h5.mb-5 Menú por tiempos
-          ul.lista-ul
-            li 
-              p.text-small.mb-0 Se refiere a que cada uno de los tiempos es un diferente platillo por servir. Existen menús de tres y cuatro tiempos
-            li 
-              i.fas.fa-angle-right.ss
-              p.text-small.mb-0 Menú de tres tiempos: entrada, plato fuerte y postre.
-            li 
-              i.fas.fa-angle-right.ss
-              p.text-small.mb-0 Menú de cuatro tiempos: pasabocas, entrada, plato fuerte y postre.
+          .col-lg-6.col-11
+            h5.mb-5 Menú por tiempos
+            ul.lista-ul
+              li 
+                p.mb-0 Se refiere a que cada uno de los tiempos es un diferente platillo por servir. Existen menús de tres y cuatro tiempos
+              li 
+                i.fas.fa-angle-right.ss
+                p.mb-0 Menú de tres tiempos: entrada, plato fuerte y postre.
+              li 
+                i.fas.fa-angle-right.ss
+                p.mb-0 Menú de cuatro tiempos: pasabocas, entrada, plato fuerte y postre.
+          .col-6.d-lg-flex.d-none
     
     .row.justify-content-center.mt-5
       .col-lg-4.col-sm-10.mb-lg-0.mb-4(data-aos="fade-right")
         .color2.h-100.p-4
-          p Como ya se había indicado también existe la carta de platos, cuyo objetivo es promocionar y dar a conocer los productos que se ofrecen en un restaurante, por ello es fundamental su diseño, para obtener la atención de los comensales.
+          p Como ya se había indicado, también existe la carta de platos, cuyo objetivo es promocionar y dar a conocer los productos que se ofrecen en un restaurante, por ello es fundamental su diseño, para obtener la atención de los comensales.
           p.mb-0 Es necesario pensar en diferentes ítems cuando se está a punto de diseñar la carta: en caso de ser impresa, se deberá considerar la resistencia, la firmeza, la textura, el color y la tipografía para describir los platos; esto con el fin de generarle una fácil lectura al cliente.
       .col-lg-4.col-sm-10.mb-lg-0.mb-4(data-aos="flip-up")
         figure.h-100
@@ -409,7 +414,7 @@
       .col-lg-4.col-sm-10.mb-lg-0.mb-4(data-aos="fade-left")
         .color4.h-100.p-4
           p En caso de ser una carta digital, se tendrán en cuenta los mismos factores, omitiendo obviamente lo concerniente al tipo de papel.
-          p.mb-0 Se debe tener especial cuidado con el uso del color, ya que, según el neuromarketing, este puede estimular el apetito del cliente y reflejar la imagen del restaurante. A continuación, se explican los diferentes tipos de cartas que hay, así como las consideraciones en su diseño, veamos:
+          p.mb-0 Se debe tener especial cuidado con el uso del color, ya que, según el #[em neuromarketing], este puede estimular el apetito del cliente y reflejar la imagen del restaurante. A continuación, se explican los diferentes tipos de cartas que hay, así como las consideraciones en su diseño, veamos:
     
     .tarjeta.tarjeta--azul.p-4.mb-5.mt-5.bg4(data-aos="zoom-in")
       SlyderA(tipo="b")
@@ -466,7 +471,7 @@
         .row.justify-content-center.px-2
           .col-lg-6.order-lg-1.order-2
             h5 Define la línea de diseño
-            p esto va depender del público objetivo y la propuesta de tu restaurante.
+            p Esto va a depender del público objetivo y la propuesta de tu restaurante.
             p.mb-0 Acá se deben tener en cuenta:
             p.mb-0 <strong>- Los colores:</strong> Establecer un fondo neutro, preferiblemente blanco, es recomendable para lograr que la comida luzca bien y se destaque; también cuida la iluminación y el formato de las imágenes. El rojo, naranja, amarillo son tonos secundarios ideales para abrir el apetito. Si se desea una carta elegante, se puede optar por los clásicos negro y blanco.
             p.mb-0 - <strong>El tipo de papel</strong>, tipo de acabado o la plataforma digital en la que se hará
@@ -622,7 +627,7 @@
         .row.justify-content-center(titulo="Refajo")
           .col-lg-6.order-lg-1.order-2
             h5 Refajo
-            p Nada más colombiano que un refajo, una bebida que resulta al combinar cerveza con gaseosa, generalmente de sabor kola roja o con la famosa ‘Colombiana’. Esta es una de las bebidas más apetecidas en la mesa de los colombianos, ya sea para celebrar o simplemente para compartir una comida, pues desde los años 90’s se convirtió en una costumbre, tanto así que llegó al mercado con una presentación propia.
+            p Nada más colombiano que un refajo, una bebida que resulta al combinar cerveza con gaseosa, generalmente de sabor kola roja o con la famosa ‘Colombiana’. Esta es una de las bebidas más apetecidas en la mesa de los colombianos, ya sea para celebrar o simplemente para compartir una comida, pues desde los años 90 se convirtió en una costumbre, tanto así que llegó al mercado con una presentación propia.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/53.png', alt="Imagen decorativa")
@@ -787,7 +792,10 @@
               li(style="margin-bottom: 2px") 
                 i.fas.fa-angle-right.ss
                 p.mb-0 Salsas
-            p Y vajillas para colocar los alimentos, de una manera armónica, tenemos que ver el plato, como si fuera un reloj, tal como vemos en la imagen:
+              li(style="margin-bottom: 2px") 
+                i.fas.fa-angle-right.ss
+                p.mb-0 Vajillas
+            p Y para colocar los alimentos, de una manera armónica, tenemos que ver el plato, como si fuera un reloj, tal como vemos en la imagen:
             p.mb-0 Si el plato es caliente, poner la carne a las a las 6 y el resto de componentes del plato a las 3 y a las 9, si es frío el plato, comenzar por el centro y desde ahí seguir con el montaje.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4   
             img(src='@/assets/curso/tema1/t1.png', alt="Imagen decorativa")
@@ -888,8 +896,8 @@
       .col-lg-4(data-aos="flip-up")
         img(src='@/assets/curso/tema1/ttt.png', alt="Imagen decorativa")
       .col-lg-4.mt-2(data-aos="fade-left")
-        p Este tema juega un rol primordial ya que es la carta de presentación del establecimiento. Una vez se ha creado la experiencia para el comensal, la estética y la presentación de los platos, tienen un papel protagónico a la hora de generar una percepción agradable y una recompra en el servicio. La vajilla, por ejemplo, es uno de los factores que más genera diferenciación entre los restaurantes y recordación en un comensal, quien normalmente no consume solo el alimento, sino que se percata también del cubierto que se utiliza, el material de los platos, el color, los diseños etc. 
-        p.mb-0 Los clientes esperan mucho más que un buen servicio, buscan vivir una experiencia única por lo que cada utensilio de la mesa juega un papel relevante.
+        p Este tema juega un rol primordial, ya que es la carta de presentación del establecimiento. Una vez se ha creado la experiencia para el comensal, la estética y la presentación de los platos, tienen un papel protagónico a la hora de generar una percepción agradable y una recompra en el servicio. La vajilla, por ejemplo, es uno de los factores que más genera diferenciación entre los restaurantes y recordación en un comensal, quien normalmente no consume solo el alimento, sino que se percata también del cubierto que se utiliza, el material de los platos, el color, los diseños etc. 
+        p.mb-0 Los clientes esperan mucho más que un buen servicio, buscan vivir una experiencia única, por lo que cada utensilio de la mesa juega un papel relevante.
     
     .row.mb-5.justify-content-center.mt-4
       .col-lg-8.mb-5.mb-lg-0(data-aos="fade-right")
@@ -932,7 +940,7 @@
         img(src='@/assets/curso/tema1/67.png', alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-left")
         p El mercadeo es el conjunto de técnicas y estudios que buscan mejorar la comercialización de un producto a partir de la identificación de las necesidades de los consumidores; al hablar puntualmente de restaurantes, este término se refiere a todas las acciones y estrategias (tanto <i>offline</i> como <i>online</i>) que buscan fidelizar al cliente, mejorar la relación con él, llegar a nuevos consumidores, promover los productos, aumentar ventas y diferenciar a la compañía.
-        p En la actualidad, se debe prestar gran importancia al mercadeo digital ya que el Internet es el canal por excelencia para llegar a una mayor cantidad de clientes. La mayoría de los usuarios hoy día, usan su celular para reservar su mesa en restaurantes y una vez visitado el establecimiento, comparten opiniones que llevan a una más alta reputación digital del establecimiento. Las tendencias son claras: todos los negocios están migrando hacia una mayor virtualización de sus servicios, así que el sector gastronómico no se puede quedar atrás. 
+        p En la actualidad, se debe prestar gran importancia al mercadeo digital, ya que el Internet es el canal por excelencia para llegar a una mayor cantidad de clientes. La mayoría de los usuarios hoy día, usan su celular para reservar su mesa en restaurantes y una vez visitado el establecimiento, comparten opiniones que llevan a una más alta reputación digital del establecimiento. Las tendencias son claras: todos los negocios están migrando hacia una mayor virtualización de sus servicios, así que el sector gastronómico no se puede quedar atrás. 
         .row.justify-content-center
           .col-12
             .cajon.color-acento-botones.p-4
@@ -964,16 +972,16 @@
     ul.lista-ul
       li(data-aos="fade-right") 
         i.fas.fa-angle-right.ss
-        p.mb-0 Captar nuevos clientes: con ellas se puede impactar a un público más amplio de manera que muchos clientes nuevos, podrán conocer y visitar el restaurante. 
+        p.mb-0 #[b Captar nuevos clientes]: con ellas se puede impactar a un público más amplio, de manera que muchos clientes nuevos, podrán conocer y visitar el restaurante. 
       li(data-aos="fade-right") 
         i.fas.fa-angle-right.ss
-        p.mb-0 El uso del teléfono se reduce: los empleados del restaurante podrán ejercer sus tareas sin necesidad de preocuparse por contestar el teléfono y atender las reservas.
+        p.mb-0 #[b El uso del teléfono se reduce]: los empleados del restaurante podrán ejercer sus tareas sin necesidad de preocuparse por contestar el teléfono y atender las reservas.
       li(data-aos="fade-right") 
         i.fas.fa-angle-right.ss
-        p.mb-0 No tiene horarios: los clientes pueden hacer su reserva en cualquier día y horario, sin importar si el local está abierto o cerrado.
+        p.mb-0 #[b No tiene horarios]: los clientes pueden hacer su reserva en cualquier día y horario, sin importar si el local está abierto o cerrado.
       li(data-aos="fade-right") 
         i.fas.fa-angle-right.ss
-        p.mb-0 Recordatorios de reserva: estas plataformas siempre envían notificaciones a los clientes, por lo que éstos no olvidarán su cita con tu restaurante. 
+        p.mb-0 #[b Recordatorios de reserva]: estas plataformas siempre envían notificaciones a los clientes, por lo que éstos no olvidarán su cita con tu restaurante. 
     
     p.mt-4(data-aos="fade-right") Algunos ejemplos de plataformas de reserva <i>online</i> pueden observarse a continuación:        
     
@@ -996,7 +1004,7 @@
         p.mt-4 Esta plataforma es casi una comunidad, donde todos los usuarios cuelgan sus opiniones de las diferentes experiencias que han vivido.
         p Cuando se acumulan las opiniones de los clientes y si en su gran mayoría son positivas, TripAdvisor proporciona al restaurante una recomendación como “el mejor restaurante del año según los usuarios”. Lo que hace que aún más clientes se decidan a probar las delicias de las que todo el mundo habla.
 
-    p.text-center(data-aos="fade-right") Nota. <a href="https://bit.ly/3kYCXW4" target="_blank" style="color: #2196F3 !important; font-weight: 900">Top 3 plataformas online para dar visibilidad a tu restaurante</a>
+    p.text-center(data-aos="fade-right") Nota. <a href="https://bit.ly/3kYCXW4" target="_blank" style="color: #2196F3 !important; font-weight: 900">Top 3 plataformas #[em online] para dar visibilidad a tu restaurante</a>
     
     separador
     #t_1_10.titulo-segundo.color-acento-contenido(data-aos="fade-right")

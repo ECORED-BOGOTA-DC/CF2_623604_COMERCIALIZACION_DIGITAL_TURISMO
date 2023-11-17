@@ -3,13 +3,11 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p En los últimos años  los destinos turísticos han encontrado en la gastronomía una oportunidad para destacar y brindar un mayor valor a la experiencia turística. Este tema se ha vuelto una poderosa motivación para viajar, ya que el comer no solo se percibe como una necesidad, sino como una experiencia estimulante que produce memorias placenteras y duraderas
-
-    .row.justify-content-center.mt-5(data-aos="fade-up")
-      .col-lg-10.mb-5
+    .row.justify-content-center.mt-5
+      .col-lg-10.mb-5(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
-      .col-auto
+          img(src="@/assets/curso/sintesis.svg", alt="La síntesis resume todos los temas y subtemas abordados en el desarrollo del componente formativo; para este caso se aboró los tipos de experiencias gastronómicas que existen, coo se debe determinar este tipo de experiencias, las claves y pasos a tener en cuenta para una experiencia memorable en el área de la gastronomía que sea inolvidable para el turista.")
+      .col-auto(data-aos="fade-left")
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")

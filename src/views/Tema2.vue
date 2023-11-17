@@ -57,7 +57,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Tipos de experiencias gastronómicas
 
-    p(data-aos="fade-right") Las experiencias gastronómicas son una estrategia utilizada por varios establecimientos hoy día. Se refieren al conjunto de conocimientos que se adquieren al asistir a un restaurante, bar o al contratar un servicio de alimentos, es decir se relaciona con todo aquello que los clientes viven en un restaurante, desde el momento en que entran por la puerta, hasta la hora de marcharse, allí se engloba todo, el servicio, el concepto, el local, es decir tanto lo físico como lo sensorial y ambiental. En el siguiente recurso podrá informarse más ampliamente a este respecto:
+    p(data-aos="fade-right") Las experiencias gastronómicas son una estrategia utilizada por varios establecimientos hoy día. Se refieren al conjunto de conocimientos que se adquieren al asistir a un restaurante, bar o al contratar un servicio de alimentos, es decir, se relaciona con todo aquello que los clientes viven en un restaurante, desde el momento en que entran por la puerta, hasta la hora de marcharse, allí se engloba todo, el servicio, el concepto, el local, es decir tanto lo físico como lo sensorial y ambiental. En el siguiente recurso podrá informarse más ampliamente a este respecto:
     
     TabsC.color-primario(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Experiencias gastronómicas en casa")
@@ -112,7 +112,7 @@
             figure
               img(src='@/assets/curso/tema2/i7.png', alt="Imagen decorativa")
     
-    p.mt-5(data-aos="fade-right") En Colombia se encuentran variadas experiencias gastronómica, esto debido a la diversidad de la cultura que tiene nuestro país, es así que es de fácil recordación los frijoles antioqueños, o el mute Santandereano, ni que decir de la riqueza gastronómica del Pacifico, con la variedad de pescados y mariscos, al igual que en la zona del Caribe, las sopas del altiplano Cundiboyacense, solo por nombrar unas pocas.
+    p.mt-5(data-aos="fade-right") En Colombia se encuentran variadas experiencias gastronomicas, esto debido a la diversidad de la cultura que tiene nuestro país, es así que es de fácil recordación los frijoles antioqueños, o el mute Santandereano, ni que decir de la riqueza gastronómica del Pacifico, con la variedad de pescados y mariscos, al igual que en la zona del Caribe, las sopas del altiplano Cundiboyacense, solo por nombrar unas pocas.
     
     .row.justify-content-center.mt-4(data-aos="fade-up-left")
       .col-lg-10.col2.p-4
@@ -157,7 +157,7 @@
               img(src='@/assets/curso/tema2/i9.png', alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
-            h4 3.<i> Ithaa Undersea restaurant / Islas</i>
+            h4 3.<i> Ithaa Undersea restaurant / Islas maldivas</i>
             p La particularidad de este restaurante es que puedes comer entre peces, algas y corales. Es un restaurante de la cadena Hilton, diseñado a 5 metros bajo el mar en una paradisíaca ubicación de la isla Rangalifinolhu en el Océano Índico. Se enfoca en ofrecerle a sus 14 comensales la experiencia de comer frutos del mar en su propio elemento; está construido de cristal acrílico y brinda una fabulosa vista de 270 grados del entorno marino.
             p El precio de los platos oscila entre los 120 y los 150 euros.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -222,9 +222,9 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 2. 
-          span <i>Factores atmosféricos</i>
+          span Factores atmosféricos
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/i15.png', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema2/i15.png', alt="Imagen que expone los factores atmosféricos a tener en cuenta para un restaurante, estos son:<br>1. Diseño exterior: rótulos, escaparates, entrada, fachadas y arquitectura exterior.<br>2. Condiciones ambientales: aromas, temperatura, música, iluminación, limpieza.<br>3. Diseño interior: mobiliario, equipamiento, accesibilidad, estética, arquitectura, decoración, señalización, entre otros.")
           figcaption.text-center.mt-4(data-aos="fade-right") Nota. <span style="font-weight: 400">Nuevas tendencias en <i>merchandising</i>: generar experiencias para conquistar emociones y fidelizar clientes. Distribución y Consumo.  Zorrilla, P. (2002).</span>
     
     separador
@@ -239,7 +239,7 @@
           p(numero="1" titulo="Conocer al público objetivo") El análisis del público objetivo es una de las primeras estrategias que se deben aplicar a la hora de crear una experiencia gastronómica, o establecer un cambio sustancial en la línea de comida que define al restaurante<br><br>Existen una variedad de perfiles e intereses gastronómicos; conocerlos y estudiarlos permitirá tener un mejor entendimiento de cómo y cuándo intervenir. <br><br>Los perfiles de consumidores de turismo gastronómico se pueden segmentar por: variables demográficas, variables socioeconómicas, variables  psicográficas y conductuales. <br><br>Luego de conocer un poco sobre el perfil del turista que llega al destino, es importante definir aspectos necesarios para crear la experiencia gastronómica.
           p(numero="2" titulo="Conoce a tu entorno") Acá la idea es incluir en la experiencia gastronómica todo lo que  caracteriza o identifica al destino donde se ubica al restaurante o al tipo de comida que éste ofrece. <br><br>Productos locales, bebidas tradicionales, historia local del destino que pueda ser un complemento a la experiencia gastronómica, fiestas, ferias o eventos culturales autóctonos que tengan relación con el plato a ofrecer o que se puedan incluir en la experiencia como tal.<br><br>Las empresas de servicios gastronómicos para el turista (productores e industrias agroalimentarias, alojamientos, restaurantes en sus múltiples tipologías, mercados, tiendas gourmet, compras, actividades culinarias, centros y museos gastronómicos, etc.). Asociaciones turísticas, de cocineros o de productores, y zonas o municipios marcados por un producto gastronómico puntual.
           p(numero="3" titulo="Conoce a tu competencia") En esta sección averiguamos sobre experiencias gastronómicas similares a la nuestra, que se ofrecen tanto en municipios o regiones cercanas; como en otros países. <br><br>La idea con este proceso es identificar sus elementos más distintivos; actividades, temáticas y estilos de la competencia para identificar sus fortalezas y verificar lo que no esté cubriendo o lo que consideres podrías mejorar con un estilo propio.
-          p(numero="4" titulo="Define las bases de la experiencia") Define los objetivos de la experiencia, es decir los principales efectos que buscarás generar en tus comensales, ya sea en el plano de las emociones, los conocimientos o las acciones. <br><br>Posteriormente define el guión de la experiencia, esto es, la secuencia en que se ordenarán las actividades más importantes, así como los contenidos principales que comunicarás en cada una de ellas. <br><br>Luego se define la narrativa, entendida como la historia o las ideas centrales que articulan y le darán un significado especial a la experiencia. <br><br>Ahora se comenzará a evaluar un precio posible que refleje el valor de la experiencia y finalmente revisa que todos los elementos se cumplan y hayan quedado estipulados según lo que deseas.           
+          p(numero="4" titulo="Define las bases de la experiencia") Define los objetivos de la experiencia, es decir, los principales efectos que buscarás generar en tus comensales, ya sea en el plano de las emociones, los conocimientos o las acciones. <br><br>Posteriormente, define el guión de la experiencia, esto es, la secuencia en que se ordenarán las actividades más importantes, así como los contenidos principales que comunicarás en cada una de ellas. <br><br>Luego se define la narrativa, entendida como la historia o las ideas centrales que articulan y le darán un significado especial a la experiencia. <br><br>Ahora se comenzará a evaluar un precio posible que refleje el valor de la experiencia y finalmente revisa que todos los elementos se cumplan y hayan quedado estipulados según lo que deseas.           
           p(numero="5" titulo="Define acciones y roles para cada episodio") A partir de tus definiciones anteriores, diseña los detalles de cada episodio.<br><br>Decide qué tan pausadas serán las acciones y relatos de la experiencia. <br><br>Puedes entregar sólo indicaciones generales, dejando un margen amplio para que, según el guía y/o a las decisiones de los propios visitantes, cada uno de ellos complete su experiencia mientras la vive.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/i16.png', alt="Imagen decorativa")
@@ -250,9 +250,9 @@
       .col-md-6(data-aos="fade-left")
         LineaTiempoD.color-acento-botones
           p(numero="6" titulo="Diferencia la naturaleza e identidad de cada episodio") Si se parecen demasiado entre sí, la atención de tus comensales puede decaer. En lo posible, evita repeticiones mecánicas de actividades.<br><strong>Recuerda diseñar transiciones entre un episodio y otro</strong> para garantizar la fluidez de la experiencia, evitando saltos o cortes innecesarios.<br><br><strong>Renuncia a comunicar demasiados temas y a contar todo en detalle.</strong> Selecciona los contenidos que te interesa transmitir y elige hacerlo con la profundidad apropiada para interesar -y no aburrir- a tus visitantes.<br><br>Ordena los temas en función de la comprensión y la atención de tus públicos y, a menos que estés buscando enfatizar ciertos conceptos, no repitas contenidos.
-          p(numero="7" titulo="Diseña lugares, relatos y demás elementos") En caso de que tu experiencia se vaya a desarrollar en un restaurante como tal, busca todos los elementos que generan recordación, por ejemplo, imágenes temáticas, decoración con luces, una carta especial etc.<br><br>Si vas a usar paneles, señalética, maquetas, videos y/u otros materiales, desarrolla el diseño gráfico y audiovisual que se requiera. Asegúrate de que la información sea verídica, precisa y actualizada: tu credibilidad está en juego. <br><br> Recuerda dotar de algún tipo de uniforme o elemento distintivo a tu personal, pues ello no solo facilita su identificación por parte de los visitantes, sino que también transmite una imagen de profesionalismo. 
+          p(numero="7" titulo="Diseña lugares, relatos y demás elementos") En caso de que tu experiencia se vaya a desarrollar en un restaurante como tal, busca todos los elementos que generan recordación, por ejemplo, imágenes temáticas, decoración con luces, una carta especial, etc.<br><br>Si vas a usar paneles, señalética, maquetas, videos y/u otros materiales, desarrolla el diseño gráfico y audiovisual que se requiera. Asegúrate de que la información sea verídica, precisa y actualizada: tu credibilidad está en juego. <br><br> Recuerda dotar de algún tipo de uniforme o elemento distintivo a tu personal, pues ello no solo facilita su identificación por parte de los visitantes, sino que también transmite una imagen de profesionalismo. 
           p(numero="8" titulo="Implementa tu experiencia") Preocúpate de cada detalle, recordando que estos pueden hacer la diferencia. <br><br>Realiza pruebas piloto. Asegúrate de que el público esté enterado de ello, para evitar que eventuales errores perjudiquen la imagen posterior de tu oferta.<br><br> Explora la posibilidad de generar alianzas con otros proveedores. Concéntrate en lo que mejor te resulta y encarga a otros lo que a ti no te sale bien. <br><br>Puedes comenzar a operar en forma normal cuando hayas terminado de realizar los ajustes. 
-          p(numero="9" titulo="Implementa tu plan de promoción") Esta implementación incluye los canales de promoción, ten presente la accesibilidad del lugar, la temperatura del sitio, tipo de ropa y vestimenta adecuada. <br><br>Cuida el diseño ya que este influye sobre tu oferta tanto para moldear las expectativas y motivaciones de los comensales, como para crear valor antes y después de su visita. Evita al máximo el uso de fotografías retocadas o falseadas.<br><br>Determina el precio adecuado a la experiencia, este monto transmitirá sobre lo que se puede esperar de la oferta. Si aún no lo tienes crea un sitio web, y un folleto y por último considera participar en metabuscadores como por ejemplo, TripAdvisor.          
+          p(numero="9" titulo="Implementa tu plan de promoción") Esta implementación incluye los canales de promoción, ten presente la accesibilidad del lugar, la temperatura del sitio, tipo de ropa y vestimenta adecuada. <br><br>Cuida el diseño, ya que este influye sobre tu oferta tanto para moldear las expectativas y motivaciones de los comensales, como para crear valor antes y después de su visita. Evita al máximo el uso de fotografías retocadas o falseadas.<br><br>Determina el precio adecuado a la experiencia, este monto transmitirá sobre lo que se puede esperar de la oferta. Si aún no lo tienes, crea un sitio web, y un folleto, y por último considera participar en metabuscadores como por ejemplo, TripAdvisor.          
           p(numero="10" titulo="Evalúa y corrige") Considera especialmente la evaluación de tus visitantes, ya que son ellos quienes viven la experiencia. Recoge sus opiniones a través de una pequeña encuesta de satisfacción y también mediante el seguimiento minucioso de los comentarios de los visitantes en las redes sociales de viajes. <br><br>Tus correcciones pueden incluir cambios en el guión, en el lugar, en el rol del guía o en el diseño de los elementos.<br><br>Asegúrate de involucrar lo mejor posible a tus guías y demás mediadores, tanto en el diseño como en la implementación de las mejoras.
     
     .row.justify-content-center.bg999.px-md-5.px-4.mt-5 
@@ -366,7 +366,7 @@
       span Itinerario de la experiencia
     
     .tabla-a.color-primario.mb-5
-      table
+      table(alt="Se describe de manera muy detallada el itinerario de todas las actividades realizadas en una visita turística, incluyendo los horarios, tipo de transporte, entre otras cosas.")
         thead
           tr(data-aos="fade-right")
             th Duración
@@ -401,7 +401,7 @@
       span Claves para una experiencia memorable
     
     .tabla-a.color-primario.mb-0
-      table
+      table(alt="Se exponen algunos tips o claves que se deben tener  en cuenta para que la experiencia o recorrido turístico sea mucho mejor para el cliente, lo que es considerado fundamental para el sector turístico.")
         thead
           tr(data-aos="fade-right")
             th Servicio profesional y cercano
@@ -447,9 +447,9 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/i22.png')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 Otras iniciativas que ya se vienen dando en mayor medida, son los servicios de ‘food box’, donde los usuarios reciben una caja de ingredientes, cata de vinos, cócteles o anchetas, que viene acompañada bien sea de una receta detallada o un acceso a clases virtuales online de gastronomía, para que desde casa, los clientes tengan una nueva forma de aprender a cocinar o consumir sus platos o bebidas favoritas, al mismo tiempo de tener la posibilidad de interactuar todo el tiempo con el chef anfitrión haciendo una experiencia más dinámica.
+        p.mb-0 Otras iniciativas que ya se vienen dando en mayor medida, son los servicios de ‘#[em food box]’, donde los usuarios reciben una caja de ingredientes, cata de vinos, cócteles o anchetas, que viene acompañada bien sea de una receta detallada o un acceso a clases virtuales #[em online] de gastronomía, para que desde casa, los clientes tengan una nueva forma de aprender a cocinar o consumir sus platos o bebidas favoritas, al mismo tiempo de tener la posibilidad de interactuar todo el tiempo con el chef anfitrión haciendo una experiencia más dinámica.
     
-    p.mt-5(data-aos="fade-right") Adicionalmente, la empresa Foodies por ejemplo, viene implementando cenas clandestinas, donde de manera online se realiza una reunión con personas que no se conocen entre sí, para que compartan su plato favorito; contribuyendo a mitigar la soledad de muchos y las relaciones sociales para otros. 
+    p.mt-5(data-aos="fade-right") Adicionalmente, la empresa Foodies por ejemplo, viene implementando cenas clandestinas, donde de manera #[em online] se realiza una reunión con personas que no se conocen entre sí, para que compartan su plato favorito; contribuyendo a mitigar la soledad de muchos y las relaciones sociales para otros. 
     
     separador
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -462,12 +462,12 @@
         img(src='@/assets/curso/tema2/i23.png', alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-left")
         .cajon.color-primario.p-4.mb-4
-          p.mb-0 Sitios <i>web</i> tales como Tripadvisor o El Tenedor (app líder de reservas online en España), se han enfocado justamente en presentarle al usuario la calificación y opinión de muchos con respecto al servicio y la comida obtenida en diferentes establecimientos gastronómicos, lo que genera ciertas expectativas en el lector y hace que desee o no, visitar el lugar. Adicional a estos medios, en las redes sociales en especial Instagram, se comparte la experiencia y se realizan comentarios acerca de restaurantes, productos, o bebidas. Este tipo de plataformas generan empatía, interacción social, transmiten conocimiento y brindan imágenes que sirven de apoyo en las decisiones del comensal, a la hora de elegir el restaurante.
+          p.mb-0 Sitios <i>web</i> tales como Tripadvisor o El Tenedor (app líder de reservas #[em online] en España), se han enfocado justamente en presentarle al usuario la calificación y opinión de muchos con respecto al servicio y la comida obtenida en diferentes establecimientos gastronómicos, lo que genera ciertas expectativas en el lector y hace que desee o no, visitar el lugar. Adicional a estos medios, en las redes sociales en especial Instagram, se comparte la experiencia y se realizan comentarios acerca de restaurantes, productos, o bebidas. Este tipo de plataformas generan empatía, interacción social, transmiten conocimiento y brindan imágenes que sirven de apoyo en las decisiones del comensal, a la hora de elegir el restaurante.
         p Adicional a lo anterior, también se debe tener presente que a partir de los efectos generados por la pandemia del Covid-19 al sector gastronómico, el servicio al interior de los restaurantes se ha transformado ya que hoy día, se hace un mayor uso de herramientas digitales para presentar un menú virtual a través de códigos QR, al igual que plataformas de pago a través de dispositivos móviles evitando el uso del dinero en efectivo y tarjetas de crédito.
         p.mb-0 Con una mayor inversión, los restaurantes también pueden lograr la implementación de domicilios y reservas de manera virtual; y los sensores que ayudan por ejemplo a que el comensal no tenga que abrir o cerrar la puerta del establecimiento o que, en su interior, el aire se mantenga sanitizado.
         p Así mismo las soluciones digitales como <i>software</i> para mejorar la gestión financiera, contable y de recursos humanos, también se hace importante para aquellos restaurantes que desean estar a la vanguardia en todos sus procesos, evitando pérdidas innecesarias y aumentando su valor en el mercado.
     
-    p.mt-4(data-aos="fade-right") Por último, le invitamos a consultar la siguiente infografía ilustrativa, sobre las cuatro empresas online que ofrece servicios gastronómicos, con mejor puntaje y garantía a nivel de domicilios:
+    p.mt-4(data-aos="fade-right") Por último, le invitamos a consultar la siguiente infografía ilustrativa, sobre las cuatro empresas #[em online] que ofrece servicios gastronómicos, con mejor puntaje y garantía a nivel de domicilios:
     
     .row.justify-content-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
@@ -479,11 +479,11 @@
               .col-12
                 img.asz(src='@/assets/curso/tema2/ico1.svg')
                 p.mt-4 Nació en 2015, cuenta con más de 4.000 establecimientos en su plataforma digital de los cuales la mayoría hace parte del sector gastronómico; algunos de esos establecimientos, son cocinas ocultas que sólo comercializan comidas a domicilio. 
-                p.mb-0 Le permite al usuario hacer seguimiento de su pedido y tener mayor eficiencia del uso del tiempo. Opera en Colombia, México, Argentina Uruguay, Chile y Perú.
+                p.mb-0 Le permite al usuario hacer seguimiento de su pedido y tener mayor eficiencia del uso del tiempo. Opera en Colombia, México, Argentina, Uruguay, Chile y Perú.
             .row.justify-content-center
               .col-12
                 img.asz(src='@/assets/curso/tema2/ico2.svg')
-                p.mt-4 Creada en el año 2011en Brasil y llegó a Colombia a principios del año 2018 y tiene servicio en 9 ciudades principales como; Bogotá, Cali, Medellín, Bucaramanga, Cartagena, Barranquilla, Manizales, Santa Marta, Pereira, entre otras. Actualmente está prestando sus  servicios en países de América Latina, como Argentina y México.
+                p.mt-4 Creada en el año 2011 en Brasil y llegó a Colombia a principios del año 2018 y tiene servicio en 9 ciudades principales como; Bogotá, Cali, Medellín, Bucaramanga, Cartagena, Barranquilla, Manizales, Santa Marta, Pereira, entre otras. Actualmente, está prestando sus  servicios en países de América Latina, como Argentina y México.
                 p.mb-0 Cuenta con más de 4.000 establecimientos en Colombia en su plataforma digital. El objetivo de esta aplicación es brindar oportunidades a los negocios que no cuentan con una gran infraestructura para que revolucionen la gastronomía a través de un canal comercial diferente a la venta presencial.
             .row.justify-content-center
               .col-12
