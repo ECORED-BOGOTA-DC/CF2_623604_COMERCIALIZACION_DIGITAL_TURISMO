@@ -329,7 +329,7 @@ export default {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -340,50 +340,50 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor metodológico y pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Fabio Alberto Ramírez Ayala',
           cargo: 'Experto temático',
-          centro: 'Centro Comercio y Servicios.Regional Tolima',
+          centro: 'Regional Tolima - Centro Comercio y Servicios',
         },
         {
           nombre: 'Zuleidy María Ruiz Torres',
           cargo: 'Experto temático',
-          centro: 'Centro Comercio y Servicios.Regional Tolima',
+          centro: 'Regional Tolima - Centro Comercio y Servicios',
         },
         {
           nombre: 'Luisa Fernanda Posada Hincapié',
           cargo: 'Experto temático',
-          centro: 'Centro de Comercio, Industria y Turismo regional Quindío',
+          centro: 'Regional Quindío - Centro de Comercio, Industria y Turismo',
         },
         {
           nombre: 'Gloria Alexandra Orejarena Barrios',
           cargo: 'Diseñador instruccional',
-          centro: 'Centro de Gestión Industrial.Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
           nombre: 'María Inés Machado López',
           cargo: 'Diseñador instruccional',
           centro:
-            'Centro de la Industria, la Empresa y los Servicios.Regional Norte de Santander',
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Asesor metodológico',
-          centro: 'Centro de Diseño y Metrología. Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Gloria Amparo López Escudero',
           cargo: 'Adecuación instruccional-2023',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Asesoría metodológica y pedagógica',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -394,113 +394,113 @@ export default {
           nombre: 'Francisco José Lizcano Reyes',
           cargo: 'Responsable del equipo',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Leyson Fabian Castaño Perez',
           cargo: 'Soporte organizacional',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Fabian Zarate',
           cargo: 'Diseño web',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Sergio Mauricio Valencia Martínez',
           cargo: 'Desarrollo Front-End',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Andrea Botello',
           cargo: 'Soporte front-end',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Zuleidy María Ruíz Torres',
           cargo: 'Producción audiovisual',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'María Carolina Tamayo López',
           cargo: 'Locución',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Ilustración',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Yeimmy Bibiana Barrera Maldonado',
           cargo: 'Ilustración',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Estefani Daniela Gallo Cortés',
           cargo: 'Ilustración',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Miguel Guerrero Gutiérrez ',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Pedro Nel Calao Zabala',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
           cargo: 'Producción audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'María Eugenia Mejía López',
           cargo: 'Validación de diseño y contenido',
           centro:
-            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseño web-2023',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
           cargo: 'Desarrollo Fullstack-2023',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -511,20 +511,20 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo:
             'Validación de recursos educativos digitales y vinculación LMS',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
