@@ -109,7 +109,6 @@
           div(x="22.5%" y="17%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                h5 1. Grupo de los cereales, pan, patatas, azúcares
                 p Este grupo contiene gran cantidad de hidratos de carbono, de tal forma que son los utilizados para el suministro de calorías en la dieta. También poseen cantidades de algunos minerales y vitaminas del complejo B. La digestibilidad es variable en función del contenido en materia no degradable.
                 p <strong>Ejemplo de cereales y sus derivados:</strong> arroz, pasta, pan, galletas, avena, cereales matutinos, harinas de cereales, patatas, boniatos, ñames, mandioca, maíz, trigo, centeno, cuscús.
                 p <strong>Ejemplo de tubérculos:</strong> calabaza, berro, lechuga, acelga, apio, puerro, berenjena, remolacha, brócoli, cebolla, zanahoria, chucrut, calabacín, col, col de Saboya, col de Bruselas, espárragos, espinacas, judías verdes, nabo, nabo, pepino, pimiento, rábano, col, rúcula, tomate.
@@ -118,14 +117,12 @@
           div(x="58%" y="3%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                h5 2. Grupo de los aceites y las grasas
                 p <strong>Ejemplo de estos alimentos son:</strong> aceite de oliva, otros aceites vegetales (cacahuete, soja, girasol, maíz, palma) margarina, cremas vegetales para untar, mantequilla, manteca, crem.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/8.png', alt="Imagen decorativa")
           div(x="76.6%" y="24.5%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                h5 3. Grupo de las carnes, pescados, huevos, legumbres y frutos secos
                 p <strong>Ejemplos de estos alimentos:</strong>  carne roja (ternera, cerdo, cordero) carne blanca (pollo, pavo y conejo) pescado, huevos.
                 p Los alimentos de este grupo aportan proteínas y son ricos en ciertos minerales como hierro, fósforo, magnesio, zinc... y vitaminas del complejo B. Los pescados son excelentes fuentes de yodo y flúor.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -133,7 +130,6 @@
           div(x="83%" y="50%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                h5 4. Grupo de los lácteos
                 p Este grupo no sólo incluye la leche de diferentes orígenes, sino también sus derivados como los quesos, yogures, etc. Estos alimentos tienen una alta digestibilidad y su valor nutritivo se fundamenta en la alta calidad de las proteínas y de lactosa, así como niveles altos de minerales, como calcio, fósforo, de vitaminas del complejo B y de vitamina A. En ocasiones, los productos lácteos están reforzados con vitamina D o hierro y son buenas fuentes de estos nutrientes.
                 p <strong>Ejemplos de estos alimentos son:</strong> leche, yogur líquido, yogur sólido, queso fresco, queso maduro, requesón, bebidas de soja enriquecidas con calcio, leche de soja, entre otros.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -141,14 +137,12 @@
           div(x="72%" y="89%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                h5 5. Grupo de las legumbres
                 p <strong>Ejemplos de estos alimentos:</strong>  guisantes, habas, frijoles, caupí, garbanzos, lentejas, soja.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/11.png', alt="Imagen decorativa")
           div(x="28%" y="90%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                h5 6. Grupo de las frutas
                 p Está constituido por un grupo de alimentos cuyo valor nutritivo se atribuye al aporte de vitaminas hidrosolubles (B y C), carotenoides (precursores de la vitamina A) y minerales, tales como el hierro, calcio, magnesio, etc.
                 p <strong>Ejemplos de alimentos:</strong> piña, albaricoque, ciruela, mora, plátano, cereza, clementina, caqui, higo, frambuesa, guayaba, grosella, kiwi, naranja, limón, lima, manzana, mango, sandía, melón, arándano, maracuyá, fresa, nectarina, espárragos, papaya, pera, melocotón, granada, mandarina, pomelo.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -325,7 +319,7 @@
                 p.mb-0 Los precios tienden a ser más altos.
               li 
                 i.fas.fa-angle-right.ss
-                p.mb-0 Ofrecen mucha más flexibilidad ya que los comensales pueden elegir productos individuales y combinarlos como quieran.
+                p.mb-0 Ofrecen mucha más flexibilidad, ya que los comensales pueden elegir productos individuales y combinarlos como quieran.
               li 
                 i.fas.fa-angle-right.ss
                 p.mb-0 Brindan una mejor experiencia gastronómica a los clientes.
@@ -394,7 +388,7 @@
             h5.mb-5 Menú por tiempos
             ul.lista-ul
               li 
-                p.mb-0 Se refiere a que cada uno de los tiempos es un diferente platillo por servir. Existen menús de tres y cuatro tiempos
+                p.mb-0 Se refiere a que cada uno de los tiempos es un diferente platillo por servir. Existen menús de tres y cuatro tiempos.
               li 
                 i.fas.fa-angle-right.ss
                 p.mb-0 Menú de tres tiempos: entrada, plato fuerte y postre.
@@ -474,10 +468,10 @@
             p Esto va a depender del público objetivo y la propuesta de tu restaurante.
             p.mb-0 Acá se deben tener en cuenta:
             p.mb-0 <strong>- Los colores:</strong> Establecer un fondo neutro, preferiblemente blanco, es recomendable para lograr que la comida luzca bien y se destaque; también cuida la iluminación y el formato de las imágenes. El rojo, naranja, amarillo son tonos secundarios ideales para abrir el apetito. Si se desea una carta elegante, se puede optar por los clásicos negro y blanco.
-            p.mb-0 - <strong>El tipo de papel</strong>, tipo de acabado o la plataforma digital en la que se hará
+            p.mb-0 - <strong>El tipo de papel:</strong>, tipo de acabado o la plataforma digital en la que se hará.
             p.mb-0 - <strong>El tipo de letra:</strong> tamaño equilibrado, que sea legible (y ayudar a la percepción del cliente), con letras de color oscuro sobre un fondo claro, y facilitando la lectura.
             p.mb-0 - <strong>El tipo de carta a diseñar</strong> (según lo que ya se vio anteriormente).
-            p Tono de la redacción: según el tipo de cliente que se tenga, sus edades, su estilo. En un establecimiento de jóvenes puedes redactar la carta en un lenguaje informal o jovial, destacar las redes sociales o los elementes interactivos del menú.
+            p - <strong>Tono de la redacción</strong>: según el tipo de cliente que se tenga, sus edades, su estilo. En un establecimiento de jóvenes puedes redactar la carta en un lenguaje informal o jovial, destacar las redes sociales o los elementes interactivos del menú.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/311.png', alt="Imagen decorativa")
         .row.justify-content-center.px-2
@@ -568,7 +562,7 @@
         LineaTiempoD.color-acento-botones
           p(numero="1" titulo="Estructura clara") Una estructura sencilla facilitará la elección de los clientes, por ejemplo: <br>Bebidas calientes o frías.<br>Bebidas clásicas o especiales.<br>Bebidas pequeñas o grandes.
           p(numero="2" titulo="Mezcla los precios") Los precios de la carta de bebidas tienen que estar mezclados, es decir, no coloques las bebidas más caras por un lado y las menos costosas por otro. <br>Mezclar los precios hará que tu cliente consuma más de lo que tenía pensado.          
-          p(numero="3" titulo="Texto") El objetivo es llamar la atención del cliente, un exceso de texto en la carta hará que no le preste tanta atención al producto. El texto de la carta tiene que ser breve, explicativo y claro. Se pueden usar palabras atractivas como “natural”, “fresco” o “local”
+          p(numero="3" titulo="Texto") El objetivo es llamar la atención del cliente, un exceso de texto en la carta hará que no le preste tanta atención al producto. El texto de la carta tiene que ser breve, explicativo y claro. Se pueden usar palabras atractivas como “natural”, “fresco” o “local”.
           p(numero="4" titulo="Separa las cartas de bebida") Un error clásico es juntar los vinos con el resto de bebidas, debe crear dos cartas, una con los vinos de comercialización, y otra con el resto de las bebidas. 
           p(numero="5" titulo="Destaque sugerencias o especialidades de la casa") Ponga algunas bebidas en negrita, mayúsculas o cursiva, reálcelas con imágenes atractivas o colores sugerentes. Pero no exagere demasiado o el efecto se esfumará.
           p(numero="6" titulo="El diseño") Una vez definida la estructura hay que decidir el diseño. La carta es un buen escaparate, se deben tener en cuenta varios factores para su elaboración, como el estilo y el diseño de la portada, el tipo de letra, el color e imágenes, el tipo de papel y la distribución del contenido.

@@ -269,7 +269,7 @@ export default {
     {
       termino: 'Menaje ',
       significado:
-        'Todos los utensilios, elementos y material profesional, empleados para el servicio de alimentos y bebidas',
+        'Todos los utensilios, elementos y material profesional, empleados para el servicio de alimentos y bebidas.',
     },
     {
       termino: 'Mercadeo',
