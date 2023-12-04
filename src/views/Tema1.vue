@@ -467,10 +467,10 @@
             h5 Define la línea de diseño
             p Esto va a depender del público objetivo y la propuesta de tu restaurante.
             p.mb-0 Acá se deben tener en cuenta:
-            p.mb-0 <strong>- Los colores:</strong> Establecer un fondo neutro, preferiblemente blanco, es recomendable para lograr que la comida luzca bien y se destaque; también cuida la iluminación y el formato de las imágenes. El rojo, naranja, amarillo son tonos secundarios ideales para abrir el apetito. Si se desea una carta elegante, se puede optar por los clásicos negro y blanco.
-            p.mb-0 - <strong>El tipo de papel:</strong>, tipo de acabado o la plataforma digital en la que se hará.
+            p.mb-0 - <strong> Los colores:</strong> establecer un fondo neutro, preferiblemente blanco, es recomendable para lograr que la comida luzca bien y se destaque; también cuida la iluminación y el formato de las imágenes. El rojo, naranja, amarillo son tonos secundarios ideales para abrir el apetito. Si se desea una carta elegante, se puede optar por los clásicos negro y blanco.
+            p.mb-0 - <strong>El tipo de papel:</strong> tipo de acabado o la plataforma digital en la que se hará.
             p.mb-0 - <strong>El tipo de letra:</strong> tamaño equilibrado, que sea legible (y ayudar a la percepción del cliente), con letras de color oscuro sobre un fondo claro, y facilitando la lectura.
-            p.mb-0 - <strong>El tipo de carta a diseñar</strong> (según lo que ya se vio anteriormente).
+            p.mb-0 - <strong>El tipo de carta a diseñar:</strong> (según lo que ya se vio anteriormente).
             p - <strong>Tono de la redacción</strong>: según el tipo de cliente que se tenga, sus edades, su estilo. En un establecimiento de jóvenes puedes redactar la carta en un lenguaje informal o jovial, destacar las redes sociales o los elementes interactivos del menú.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/311.png', alt="Imagen decorativa")

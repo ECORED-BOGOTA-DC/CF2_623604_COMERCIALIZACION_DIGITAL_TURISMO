@@ -206,10 +206,8 @@
               p La experiencia del comensal también va ligada a factores sociales y culturales, no solo del cliente, sino de la empresa como tal. La cultura organizacional es uno de los factores más importantes a la hora de determinar una buena o mala experiencia; aquellas empresas cuyos empleados están involucrados, motivados y centrados en el cliente, tienen una mayor probabilidad de generar una experiencia positiva.          
           .row(titulo="Factores físicos")
             .col-12
-              p.mb-0 Es uno de los componentes más importantes a la hora de condicionar la experiencia del consumidor, y engloba los factores: visuales (colores, materiales, luces, diseño…), 
-              p.mb-0 sonoros (música ambiental, ruidos…), 
-              p.mb-0 táctiles (temperatura, materiales…), y 
-              p olfativos (olores naturales y/o artificiales, fragancia específica…). El sentido gustativo (sabor, textura, temperatura) no se incluye en la definición de atmósfera, sino que formará parte del producto en sí, puesto que la atmósfera en sí puede ser vista, oída, olida y sentida, pero no puede ser captada por el gusto.
+              p Es uno de los componentes más importantes a la hora de condicionar la experiencia del consumidor, y engloba los factores: visuales (colores, materiales, luces, diseño…), sonoros (música ambiental, ruidos…), táctiles (temperatura, materiales…), y olfativos (olores naturales y/o artificiales, fragancia específica…). 
+              p.mb-0 El sentido gustativo (sabor, textura, temperatura) no se incluye en la definición de atmósfera, sino que formará parte del producto en sí, puesto que la atmósfera en sí puede ser vista, oída, olida y sentida, pero no puede ser captada por el gusto.
           .row(titulo="Producto")
             .col-12
               p Es fundamental porque se trata de aquello que el restaurante ofrece a su público objetivo con el fin de satisfacer sus deseos y necesidades. Los consumidores son cada vez más conscientes de lo que consumen y así mismo más exigentes con los productos y su calidad; lo que hace que estén dispuestos a pagar un buen precio a cambio de recibir lo que desean; actualmente existe una tendencia con opciones “healthy” o variantes para todos los grupos alimenticios tales como celíacos o intolerantes, lo que hace que el sector gastronómico deba estar al tanto de los cambios y que elijan un buen producto a la altura de las expectativas de los comensales.               
