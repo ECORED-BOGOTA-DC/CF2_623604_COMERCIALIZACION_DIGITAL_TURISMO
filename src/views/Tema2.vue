@@ -112,7 +112,7 @@
             figure
               img(src='@/assets/curso/tema2/i7.png', alt="Imagen decorativa")
     
-    p.mt-5(data-aos="fade-right") En Colombia se encuentran variadas experiencias gastronomicas, esto debido a la diversidad de la cultura que tiene nuestro país, es así que es de fácil recordación los frijoles antioqueños, o el mute Santandereano, ni que decir de la riqueza gastronómica del Pacifico, con la variedad de pescados y mariscos, al igual que en la zona del Caribe, las sopas del altiplano Cundiboyacense, solo por nombrar unas pocas.
+    p.mt-5(data-aos="fade-right") En Colombia se encuentran variadas experiencias gastronomicas, esto debido a la diversidad de la cultura que tiene nuestro país, es así que es de fácil recordación los frijoles antioqueños, o el mute Santandereano, ni que decir de la riqueza gastronómica del Pacífico, con la variedad de pescados y mariscos, al igual que en la zona del Caribe, las sopas del altiplano Cundiboyacense, solo por nombrar unas pocas.
     
     .row.justify-content-center.mt-4(data-aos="fade-up-left")
       .col-lg-10.col2.p-4
@@ -141,7 +141,7 @@
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             h4 1. <i>Sublimotion / Ibiza</i>
-            p Es el restaurante más caro del mundo, del cocinero español doble estrella Michelin, Paco Roncero. La experiencia, también la más costosa del mundo en lo que a restauración se refiere (el cubierto cuesta 1500€ + IVA), se compone de una única mesa para 12 comensales, donde un despliegue teatral y tecnológico busca estimular todos los sentidos.
+            p Es el restaurante más caro del mundo, del cocinero español doble estrella Michelin, Paco Roncero. La experiencia, también la más costosa del mundo en lo que a restauración se refiere (el cubierto cuesta 1500 € + IVA), se compone de una única mesa para 12 comensales, donde un despliegue teatral y tecnológico busca estimular todos los sentidos.
             p La gastronomía de vanguardia se funde con las más variadas atmósferas cromáticas, controles de temperatura y humedad, que transportarán a los comensales desde el Polo Norte hasta Versalles.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -245,7 +245,7 @@
     .row.justify-content-center.mt-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema2/i17.png', alt="Imagen decorativa")
-      .col-md-6(data-aos="fade-left")
+      .col-lg-6(data-aos="fade-left")
         LineaTiempoD.color-acento-botones
           p(numero="6" titulo="Diferencia la naturaleza e identidad de cada episodio") Si se parecen demasiado entre sí, la atención de tus comensales puede decaer. En lo posible, evita repeticiones mecánicas de actividades.<br><strong>Recuerda diseñar transiciones entre un episodio y otro</strong> para garantizar la fluidez de la experiencia, evitando saltos o cortes innecesarios.<br><br><strong>Renuncia a comunicar demasiados temas y a contar todo en detalle.</strong> Selecciona los contenidos que te interesa transmitir y elige hacerlo con la profundidad apropiada para interesar -y no aburrir- a tus visitantes.<br><br>Ordena los temas en función de la comprensión y la atención de tus públicos y, a menos que estés buscando enfatizar ciertos conceptos, no repitas contenidos.
           p(numero="7" titulo="Diseña lugares, relatos y demás elementos") En caso de que tu experiencia se vaya a desarrollar en un restaurante como tal, busca todos los elementos que generan recordación, por ejemplo, imágenes temáticas, decoración con luces, una carta especial, etc.<br><br>Si vas a usar paneles, señalética, maquetas, videos y/u otros materiales, desarrolla el diseño gráfico y audiovisual que se requiera. Asegúrate de que la información sea verídica, precisa y actualizada: tu credibilidad está en juego. <br><br> Recuerda dotar de algún tipo de uniforme o elemento distintivo a tu personal, pues ello no solo facilita su identificación por parte de los visitantes, sino que también transmite una imagen de profesionalismo. 
@@ -345,7 +345,7 @@
         p.mb-0 Teniendo en cuenta el tipo de turista que normalmente llega al destino, se debe decidir si la experiencia gastronómica irá enfocada a un mercado de personas jóvenes, de adultos o de tercera edad.
       li(data-aos="fade-right")
         i.fas.fa-check.ss
-        p.mb-0 Según el tipo de mercado y los ingresos promedio de éste, se debe plantear el tipo de decoración dentro de la experiencia, la ubicación el lugar donde se va a ofrecer, el tipo de restaurante entre otros. 
+        p.mb-0 Según el tipo de mercado y los ingresos promedio de éste, se debe plantear el tipo de decoración dentro de la experiencia, la ubicación el lugar donde se va a ofrecer, el tipo de restaurante, entre otros. 
     
     p(data-aos="fade-right") Algunas propuestas de experiencias gastronómicas pueden ser:
     

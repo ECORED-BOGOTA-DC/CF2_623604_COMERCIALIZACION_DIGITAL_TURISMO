@@ -267,7 +267,7 @@ export default {
         'Conjunto de conocimientos y actividades que están relacionados con los ingredientes, recetas y técnicas de la culinaria, así como con su evolución histórica.',
     },
     {
-      termino: 'Menaje ',
+      termino: 'Menaje',
       significado:
         'Todos los utensilios, elementos y material profesional, empleados para el servicio de alimentos y bebidas.',
     },
@@ -409,7 +409,7 @@ export default {
         },
         {
           nombre: 'Sergio Mauricio Valencia Martínez',
-          cargo: 'Desarrollo Front-End',
+          cargo: 'Desarrollo front end',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },

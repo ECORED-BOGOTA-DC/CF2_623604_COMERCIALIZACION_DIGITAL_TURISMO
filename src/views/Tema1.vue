@@ -242,13 +242,13 @@
           img(src='@/assets/curso/tema1/19.png',  alt="Imagen decorativa")
         .p-4
           h4.mb-1 Sopas y guisos
-          p.mb-0 Debemos asegurarnos de que alcanzan los 70ºC de cocción.
+          p.mb-0 Debemos asegurarnos de que alcanzan los 70 ºC de cocción.
       .tarjeta.color-primario.h-100
         figure.mb-3
           img(src='@/assets/curso/tema1/20.png',  alt="Imagen decorativa")
         .p-4
           h4.mb-1 Huevos
-          p.mb-0 Hay que refrigerarlos a una temperatura de 5ºC o inferior y cocinarlos a 63ºC salvo que se indique lo contrario.
+          p.mb-0 Hay que refrigerarlos a una temperatura de 5 ºC o inferior y cocinarlos a 63 ºC salvo que se indique lo contrario.
       .tarjeta.color-primario.h-100
         figure.mb-3
           img(src='@/assets/curso/tema1/21.png',  alt="Imagen decorativa")
@@ -492,7 +492,7 @@
         .cajon.color-primario.p-4.mb-4
           p La palabra bebida es de uso común, y se refiere a todo tipo de líquidos (naturales o artificiales) que puedan ser utilizados para el consumo humano y cuyo principal objeto es calmar la sed o hidratar nuestro organismo. 
           p.mb-0 El concepto de bebida se relaciona puntualmente con una de las necesidades primarias del ser humano que es reponer los líquidos que utiliza en la realización de sus actividades diarias.
-        p.mb-0 La bebida por excelencia es el agua ya que es la más recomendada para cumplir dicha función de reposición de líquidos; sin embargo, el ser humano también ha creado otras bebidas más complejas que son frecuentemente usadas en celebraciones. Como lo son las bebidas alcohólicas y las gaseosas, cuyo objetivo primordial es sumarle placer, gusto y elementos visuales a la experiencia de beber. Adicional a estas, también existen las infusiones o jugos de frutas que pueden ser o no, artificiales o contener o no, azúcares añadidos. 
+        p.mb-0 La bebida por excelencia es el agua, ya que es la más recomendada para cumplir dicha función de reposición de líquidos; sin embargo, el ser humano también ha creado otras bebidas más complejas que son frecuentemente usadas en celebraciones. Como lo son las bebidas alcohólicas y las gaseosas, cuyo objetivo primordial es sumarle placer, gusto y elementos visuales a la experiencia de beber. Adicional a estas, también existen las infusiones o jugos de frutas que pueden ser o no, artificiales o contener o no, azúcares añadidos. 
     
     p.mb-5(data-aos="fade-right") Hoy en día, se puede encontrar en el mercado una gran variedad de bebidas con un presupuesto y un tipo de consumidor específico al que van dirigidas; algunas de ellas estarán solo enfocadas en adultos, mientras que otras serán de consumo apto para todos.
     
@@ -613,7 +613,7 @@
         .row.justify-content-center(titulo="La chicha")
           .col-lg-6.order-lg-1.order-2
             h5 La chicha
-            p Es una de las bebidas tradicionales latinoamericanas, a base de maíz fermentado con azúcar. En Colombia, dependiendo de la región del país se prepara a base de piña o yuca, aunque es propia de la región andina colombiana. Su grado de alcohol, así como su sabor dulce o amargo varía dependiendo del tiempo de fermentación.
+            p Es una de las bebidas tradicionales latinoamericanas, a base de maíz fermentado con azúcar. En Colombia, dependiendo de la región del país se prepara a base de piña o yuca, aunque es propia de la región andina colombiana. Su grado de alcohol, así como su sabor dulce o amargo, varía dependiendo del tiempo de fermentación.
             p La chicha es originariamente una bebida indígena Muisca, que poco a poco se volvió del común, tanto así que hoy en día se puede conseguir en el centro de Bogotá.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -682,8 +682,8 @@
             .cajon.color-acento-contenido.p-4
               p.mb-0 Desde tiempos de los romanos, se comenzaron a presentar platos originales que tuvieran coherencia con el gusto por los excesos y el lujo que marcaba dicha época. Se valoraba entonces el mérito de un cocinero por su capacidad de innovar e impresionar a los comensales.
         p.mt-4 En otras culturas, por el contrario, simplemente se prestaba atención a la distribución de los trozos de comida en el plato para que al comensal le fuera más sencillo el acto de comer; con el tiempo, la evolución de la cocina introdujo aspectos artísticos, donde los alimentos se disponen de diferentes maneras y se tiene en cuenta el color y las formas para generar emociones y sorprender al comensal.        
-      .col-lg-4(data-aos="flip-up")
-        img.tamimg(src='@/assets/curso/tema1/i8.png', alt="Imagen decorativa")
+      .col-lg-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
+        img(src='@/assets/curso/tema1/i8.png', alt="Imagen decorativa")
       .col-lg-4.mt-2(data-aos="fade-left")
         p.mb-0 En la actualidad, el emplatado sigue tomando un rol importante a la hora de generar un efecto agradable a la vista de quien degustará la preparación. 
         p Lo que se ve, es el primer estímulo que participa en el juego de las sensaciones a la hora de evaluar o querer consumir un plato, por esta razón la armonía y la estética deben tener un peso importante; posteriormente aparece el olfato y por último el gusto, por tanto, si queremos que la receta cautive, se debe prestar atención a la presentación que será lo primero que se juzgue.
@@ -790,7 +790,7 @@
                 i.fas.fa-angle-right.ss
                 p.mb-0 Vajillas
             p Y para colocar los alimentos, de una manera armónica, tenemos que ver el plato, como si fuera un reloj, tal como vemos en la imagen:
-            p.mb-0 Si el plato es caliente, poner la carne a las a las 6 y el resto de componentes del plato a las 3 y a las 9, si es frío el plato, comenzar por el centro y desde ahí seguir con el montaje.
+            p.mb-0 Si el plato es caliente, poner la carne a las 6 y el resto de componentes del plato a las 3 y a las 9, si es frío el plato, comenzar por el centro y desde ahí seguir con el montaje.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4   
             img(src='@/assets/curso/tema1/t1.png', alt="Imagen decorativa")
         .row.justify-content-center.px-2
@@ -890,7 +890,7 @@
       .col-lg-4(data-aos="flip-up")
         img(src='@/assets/curso/tema1/ttt.png', alt="Imagen decorativa")
       .col-lg-4.mt-2(data-aos="fade-left")
-        p Este tema juega un rol primordial, ya que es la carta de presentación del establecimiento. Una vez se ha creado la experiencia para el comensal, la estética y la presentación de los platos, tienen un papel protagónico a la hora de generar una percepción agradable y una recompra en el servicio. La vajilla, por ejemplo, es uno de los factores que más genera diferenciación entre los restaurantes y recordación en un comensal, quien normalmente no consume solo el alimento, sino que se percata también del cubierto que se utiliza, el material de los platos, el color, los diseños etc. 
+        p Este tema juega un rol primordial, ya que es la carta de presentación del establecimiento. Una vez se ha creado la experiencia para el comensal, la estética y la presentación de los platos, tienen un papel protagónico a la hora de generar una percepción agradable y una recompra en el servicio. La vajilla, por ejemplo, es uno de los factores que más genera diferenciación entre los restaurantes y recordación en un comensal, quien normalmente no consume solo el alimento, sino que se percata también del cubierto que se utiliza, el material de los platos, el color, los diseños, etc. 
         p.mb-0 Los clientes esperan mucho más que un buen servicio, buscan vivir una experiencia única, por lo que cada utensilio de la mesa juega un papel relevante.
     
     .row.mb-5.justify-content-center.mt-4
@@ -919,7 +919,7 @@
       h2 1.8 Tipos de servicio en un restaurante
     
     p(data-aos="fade-right") Entendemos por tipos de servicio las diferentes formas en las que podemos hacer llegar el alimento preparado a la persona que lo va a degustar, pudiendo ser éste el cliente de un restaurante, o cualquier miembro familiar que se siente en la mesa para comer.
-    p.mb-5(data-aos="fade-right") Los principales tipos de servicio son: emplatado, inglesa, y <i>bufet</i>, cada uno de ellos con unas características específicas que lo hacen idóneo en función de las consideraciones oportunas que determinan la naturaleza del servicio. En el siguiente vídeo se explica con más detalle las características de cada uno de estos tipos de servicio:
+    p.mb-5(data-aos="fade-right") Los principales tipos de servicio son: emplatado, inglesa, y bufé, cada uno de ellos con unas características específicas que lo hacen idóneo en función de las consideraciones oportunas que determinan la naturaleza del servicio. En el siguiente vídeo se explica con más detalle las características de cada uno de estos tipos de servicio:
     
     figure.mb-4(data-aos="zoom-in")
       .video
