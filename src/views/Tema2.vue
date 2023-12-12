@@ -355,7 +355,7 @@
     
     .row.justify-content-center
       .col-lg-8(data-aos="zoom-in")
-        img(src='@/assets/curso/tema2/i20.png', alt="Visitar productores e industrias alimentarias<br>	Comer, dormir, comprar, visitar museos y realizar actividades gastronómicas  <br>	Realizar una ruta temática (por productos o platos) o geográfica<br>	Visitar el patrimonio gastronómico<br>	Vivir experiencias singulares<br>	Participar en fiestas y eventos gastronómicos<br>	Visitar municipios, comarcas y regiones gastronómicas")
+        img(src='@/assets/curso/tema2/i20.png', alt="Visitar productores e industrias alimentarias.	Comer, dormir, comprar, visitar museos y realizar actividades gastronómicas.	Realizar una ruta temática (por productos o platos) o geográfica.	Visitar el patrimonio gastronómico.	Vivir experiencias singulares.	Participar en fiestas y eventos gastronómicos.	Visitar municipios, comarcas y regiones gastronómicas")
     
     p.my-5(data-aos="fade-right") Como ya vimos, no solo se trata de conocer al turista, sino y principalmente se trata de satisfacer sus necesidades e intereses, para esto es necesario construir un itinerario de experiencia; para diseñarlo de manera efectiva, es necesario que anote todas tus decisiones a medida que las vayas tomando. Puede utilizar la siguiente tabla como referencia para crear el itinerario de la experiencia, definiendo episodios y/o acciones, tiempos de duración, lugares donde ocurren, recursos necesarios y objetivos por lograr con los visitantes:
     
