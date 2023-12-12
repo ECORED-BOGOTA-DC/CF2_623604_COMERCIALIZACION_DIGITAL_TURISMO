@@ -217,7 +217,6 @@
       height: 30px
 ///import css-variables from
 .tarjetas-up
-
   overflow: hidden
   border-radius: 10px
   position: relative
@@ -231,13 +230,21 @@
     bottom: -85%
     @media (max-width: $bp-max-xl)
       bottom: -80%
-    @media (max-width: $bp-max-md)
+    @media (max-width: $bp-max-lg)
       bottom: -85%
+    @media (max-width: $bp-max-md)
+      bottom: -80%
+    @media (max-width: $bp-max-sm)
+      bottom: -87%
     i:last-child
       display: none
   &:hover
     .tarjetas-up_card
       bottom: -40%
+      @media (max-width: $bp-max-xl)
+        bottom: -30%
+      @media (max-width: $bp-max-lg)
+        bottom: 0%
     i:first-child
       display: none
     i:last-child

@@ -60,11 +60,11 @@
 
     p.mb-5(data-aos="fade-right") Los alimentos se han clasiﬁcado de acuerdo a su valor nutritivo en seis grupos básicos. De estos, dos pertenecen a alimentos de origen animal y cuatro de origen vegetal, y por obvias razones, cada uno ofrece una diferente calidad de proteínas, tal como puede apreciar en el siguiente recurso educativo, veamos:
     
-    .row.mb-5
-      .col-lg-4.mb-3(data-aos="fade-right")
+    .row.justify-content-center.mb-5
+      .col-lg-4.col-md-6.mb-3(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema1/111.png' style='width:400px', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/111.png'  alt="Imagen decorativa")
           .tarjetas-up_card.bg--2-claro.p-4
             .title.d-flex.align-items-center.mb-4
               span.c--4
@@ -72,9 +72,9 @@
                 i.fas.fa-caret-down.fa-2x.color-primario.me-3
               h4.mb-0 1. Alimentos de origen vegetal
             p.mb-0 <strong>Comprenden las verduras, las frutas y los cereales y semillas</strong> dentro de las cuales se encuentran, las legumbres (lentejas, guisantes y frijoles) los cereales (trigo, arroz, maíz, avena) y las nueces.
-      .col-lg-4.mb-3(data-aos="flip-up")
+      .col-lg-4.col-md-6.mb-3(data-aos="flip-up")
         .tarjetas-up
-          img(src='@/assets/curso/tema1/112.png' style='width:400px', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/112.png'  alt="Imagen decorativa")
           .tarjetas-up_card.bg--2-claro.p-4
             .title.d-flex.align-items-center.mb-4
               span.c--4
@@ -82,9 +82,9 @@
                 i.fas.fa-caret-down.fa-2x.color-primario.me-3
               h4.mb-0 2. Alimentos de origen animal
             p.mb-0 Comprenden <strong>toda especie de ganado (ovino, porcino, caprino, bovino),</strong> todas las aves de corral (pavo, pollo, ganso, entre otros), los mariscos y las distintas especies de pescados. Entre los productos derivados de los animales están comprendidos: leche, queso, mantequilla, huevos, miel, salchichas. 
-      .col-lg-4.mb-3(data-aos="fade-left")
+      .col-lg-4.col-md-6.mb-3(data-aos="fade-left")
         .tarjetas-up
-          img(src='@/assets/curso/tema1/113.png' style='width:400px', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/113.png'  alt="Imagen decorativa")
           .tarjetas-up_card.bg--2-claro.p-4
             .title.d-flex.align-items-center.mb-4
               span.c--4
