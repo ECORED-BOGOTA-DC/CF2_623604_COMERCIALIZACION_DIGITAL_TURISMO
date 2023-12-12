@@ -982,21 +982,27 @@
     h3.mt-5(data-aos="fade-right") Plataformas de reserva <i>online</i>
     
     .row.t1.mt-5
-      .col-lg-4.grupo1.p-5(data-aos="fade-right")
-        .row.mt-5
-        .row.mt-5
-        p.mt-4 Comprueba las reservas en tiempo real con tan solo un clic.<br>Recibe una notificación por cada nueva reserva.<br>Crea distintas cuentas de usuario para empleados concretos.<br>Registra todos los cambios en las reservas.
-      .col-lg-4.grupo2.p-5(data-aos="flip-up")
-        .row.mt-5
-        .row.mt-5
-        p.mt-4 El restaurante debes tener su perfil en Google My Business.
-        p Esta aplicación recomienda restaurantes cercanos al lugar desde donde el cliente hace la búsqueda. 
-        p Hace su propia valoración de los mejores locales. Para ello tiene en cuenta las opiniones de los clientes y la información más completa y actualizada que haya proporcionado el propietario del restaurante.
-      .col-lg-4.grupo3.p-5(data-aos="fade-left")
-        .row.mt-5
-        .row.mt-5
-        p.mt-4 Esta plataforma es casi una comunidad, donde todos los usuarios cuelgan sus opiniones de las diferentes experiencias que han vivido.
-        p Cuando se acumulan las opiniones de los clientes y si en su gran mayoría son positivas, TripAdvisor proporciona al restaurante una recomendación como “el mejor restaurante del año según los usuarios”. Lo que hace que aún más clientes se decidan a probar las delicias de las que todo el mundo habla.
+      .col-lg-4.px-2(data-aos="fade-right")
+        .BG01.h-100
+          figure.mb-4
+            img(src='@/assets/curso/tema1/grupo1.svg', alt="Imagen decorativa")
+          .p-xl-5.p-4   
+            p.mb-0 Comprueba las reservas en tiempo real con tan solo un clic.<br>Recibe una notificación por cada nueva reserva.<br>Crea distintas cuentas de usuario para empleados concretos.<br>Registra todos los cambios en las reservas.
+      .col-lg-4.px-2(data-aos="flip-up")
+        .BG01.h-100
+          figure.mb-4
+            img(src='@/assets/curso/tema1/grupo2.svg', alt="Imagen decorativa")
+          .p-xl-5.p-4 
+            p El restaurante debes tener su perfil en Google My Business.
+            p Esta aplicación recomienda restaurantes cercanos al lugar desde donde el cliente hace la búsqueda. 
+            p.mb-0 Hace su propia valoración de los mejores locales. Para ello tiene en cuenta las opiniones de los clientes y la información más completa y actualizada que haya proporcionado el propietario del restaurante.
+      .col-lg-4.px-2(data-aos="fade-left")
+        .BG01.h-100
+          figure.mb-4
+            img(src='@/assets/curso/tema1/grupo3.svg', alt="Imagen decorativa")
+          .p-xl-5.p-4 
+            p Esta plataforma es casi una comunidad, donde todos los usuarios cuelgan sus opiniones de las diferentes experiencias que han vivido.
+            p.mb-0 Cuando se acumulan las opiniones de los clientes y si en su gran mayoría son positivas, TripAdvisor proporciona al restaurante una recomendación como “el mejor restaurante del año según los usuarios”. Lo que hace que aún más clientes se decidan a probar las delicias de las que todo el mundo habla.
 
     p.text-center(data-aos="fade-right") Nota. <a href="https://bit.ly/3kYCXW4" target="_blank" style="color: #2196F3 !important; font-weight: 900">Top 3 plataformas #[em online] para dar visibilidad a tu restaurante</a>
     

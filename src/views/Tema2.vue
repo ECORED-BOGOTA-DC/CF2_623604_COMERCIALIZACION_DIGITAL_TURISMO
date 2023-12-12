@@ -191,7 +191,7 @@
           h5 Figura 1. 
           span Determinantes de la experiencia
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/i13.png', alt="Muestra: Determinantes de la experiencia<br> Experiencia del cliente<br> Consumidor: expectativas, edad, motivaciones, personalidad.<br> Factores culturales: cultura organizativa.<br> Contexto y factores físicos: diseño de interiores, iluminación, música, etc.<br> Producto: calidad, elaboración, presentación.")
+          img(src='@/assets/curso/tema2/i13.png', alt="Muestra: Determinantes de la experiencia. Experiencia del cliente. Consumidor: expectativas, edad, motivaciones, personalidad. Factores culturales: cultura organizativa. Contexto y factores físicos: diseño de interiores, iluminación, música, etc. Producto: calidad, elaboración, presentación.")
     
     p.mt-4.mb-5(data-aos="fade-right") Además, es necesario tener en cuenta las diferentes variables que intervienen en una experiencia gastronómica memorable, entre las que podemos encontrar:
     
@@ -222,7 +222,7 @@
           h5 Figura 2. 
           span Factores atmosféricos
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/i15.png', alt="Imagen que expone los factores atmosféricos a tener en cuenta para un restaurante, estos son:<br>1. Diseño exterior: rótulos, escaparates, entrada, fachadas y arquitectura exterior.<br>2. Condiciones ambientales: aromas, temperatura, música, iluminación, limpieza.<br>3. Diseño interior: mobiliario, equipamiento, accesibilidad, estética, arquitectura, decoración, señalización, entre otros.")
+          img(src='@/assets/curso/tema2/i15.png', alt="Imagen que expone los factores atmosféricos a tener en cuenta para un restaurante, estos son: 1. Diseño exterior: rótulos, escaparates, entrada, fachadas y arquitectura exterior. 2. Condiciones ambientales: aromas, temperatura, música, iluminación, limpieza. 3. Diseño interior: mobiliario, equipamiento, accesibilidad, estética, arquitectura, decoración, señalización, entre otros.")
           figcaption.text-center.mt-4(data-aos="fade-right") Nota. <span style="font-weight: 400">Nuevas tendencias en <i>merchandising</i>: generar experiencias para conquistar emociones y fidelizar clientes. Distribución y Consumo.  Zorrilla, P. (2002).</span>
     
     separador
