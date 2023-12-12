@@ -117,7 +117,7 @@
           div(x="58%" y="3%" tooltip="Click para leer mas...")
             .row.justify-content-center.p-4
               .col-lg-5.order-lg-1.order-2
-                p <strong>Ejemplo de estos alimentos son:</strong> aceite de oliva, otros aceites vegetales (cacahuete, soja, girasol, maíz, palma) margarina, cremas vegetales para untar, mantequilla, manteca, crem.
+                p <strong>Ejemplo de estos alimentos son:</strong> aceite de oliva, otros aceites vegetales (cacahuete, soja, girasol, maíz, palma) margarina, cremas vegetales para untar, mantequilla, manteca, crema agría.
               .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/8.png', alt="Imagen decorativa")
           div(x="76.6%" y="24.5%" tooltip="Click para leer mas...")
